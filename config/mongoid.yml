@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: journey_development
+      hosts:
+        - localhost:27017
